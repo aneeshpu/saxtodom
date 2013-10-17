@@ -1,0 +1,14 @@
+<account>
+    <name>Aneesh</name>
+    <billable-charge>
+        <invoice>
+            <payments>
+                <payment>
+                    <refund/>
+                </payment>
+                <payment>
+                </payment>
+            </payments>
+        </invoice>
+    </billable-charge>
+</account>
